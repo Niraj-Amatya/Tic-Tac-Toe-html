@@ -1,5 +1,11 @@
 td {
     width: 100px;
     height: 100px;
-    background: red;
+}
+
+/* class .vertical used for td border */
+.vertical {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+
 }
